@@ -1,0 +1,12 @@
+,artist,track,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms
+0,Barakah The Prince,Nivumilie,0.783,0.665,5,-7.749,0,0.0548,0.0636,0.000693,0.0997,0.805,100.494,270761
+1,Pallaso,Mama,0.71,0.883,11,-3.556,1,0.142,0.399,0.0,0.047,0.88,103.934,237767
+2,Instrumental Hip Hop Beats Gang,Slow and smooth,0.825,0.0753,3,-10.373,1,0.141,0.358,0.928,0.11,0.155,159.524,76984
+3,Eddy Kenzo,Mbakooye,0.536,0.885,11,-3.262,1,0.0666,0.65,0.0,0.0958,0.833,174.02,340400
+4,Ultra Beats,Latino (Instrumental),0.732,0.369,7,-10.568,1,0.126,0.099,0.782,0.102,0.852,89.99,194667
+5,Pallaso,Mama Bulamu,0.781,0.734,6,-3.965,1,0.0574,0.435,0.0,0.137,0.879,101.01,297247
+6,Shakira Shakiraa,Bwentyo Bwendi,0.49,0.907,7,-4.197,0,0.0968,0.0139,0.0,0.261,0.833,106.94,202376
+7,Brown Mauzo,Natamani,0.748,0.945,7,-4.998,1,0.254,0.232,2.11e-06,0.152,0.865,107.995,225504
+8,A Pass,Tulo,0.648,0.752,1,-6.249,0,0.158,0.0896,0.00107,0.13,0.581,179.868,150667
+9,Pastor T.L. Barrett and the Youth for Christ Choir,I Want To Be In Love,0.451,0.847,5,-5.203,1,0.0613,0.466,0.0,0.131,0.704,92.863,185747
+10,Pallaso,On Fire,0.683,0.904,6,-2.138,1,0.0594,0.32,0.0,0.0857,0.964,93.675,191347
